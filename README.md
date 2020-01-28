@@ -22,5 +22,5 @@ We aim to provide this diagnosis to people in remote areas where healthcare is n
 
 
 ## Citation
-This code has been copied from https://github.com/ghostbbbmt/Traffic-Sign-Detection.git for the purpose of training and learning I'm not the one who wrote  the code, just i made a bit of change.
+This code has been copied from https://github.com/shubhamjha97/parkinson-detection.git for the purpose of training and learning I'm not the one who wrote  the code, just i made a bit of change.
 I'm very thankful for the team who write the code. 
